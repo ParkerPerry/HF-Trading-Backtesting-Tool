@@ -30,15 +30,7 @@ Getting started
 Installation
 ------------
 
-This project supports Python 3.10+. You can install the tool using ``pip``:
-
-.. code-block:: console
-
- pip install hf-trading-backtesting-tool
-
-Alternatively, you can clone the latest version from the Git repository with:
-
-.. code-block:: console
+This project supports Python 3.10+. You can install the tool from this repository:
 
  git clone https://github.com/ParkerPerry/HF-Trading-Backtesting-Tool.git
 
